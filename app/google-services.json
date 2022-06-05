@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "433310163299",
+    "project_id": "plotgenarator",
+    "storage_bucket": "plotgenarator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433310163299:android:73743a50821007cdcd3356",
+        "android_client_info": {
+          "package_name": "com.example.plotgenarator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433310163299-8jnt628rh1kaivatjqp2rbpnnsbogo38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjvvOR3Cd7SXmLgaP2KC828xAj15NG_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433310163299-8jnt628rh1kaivatjqp2rbpnnsbogo38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433310163299:android:6f03cbdcddfafa41cd3356",
+        "android_client_info": {
+          "package_name": "com.example.plotgenearator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433310163299-8jnt628rh1kaivatjqp2rbpnnsbogo38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjvvOR3Cd7SXmLgaP2KC828xAj15NG_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433310163299-8jnt628rh1kaivatjqp2rbpnnsbogo38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
